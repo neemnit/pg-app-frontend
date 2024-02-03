@@ -1,5 +1,5 @@
 import Axios from 'axios'
 const axios=Axios.create({
-    baseURL:'http://localhost:4000'
+    baseURL:'https://pg-app-r3jo.onrender.com'
 })
 export default axios
